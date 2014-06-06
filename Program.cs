@@ -18,7 +18,7 @@ namespace Practica_6
            	"Server=localhost;" +
 			"Database=profesor;" +
 			"User ID=root;" +
-			"Password=123;" +
+			"Password=1234;" +
 			"Pooling=false;";
 			this.myConnection = new MySqlConnection(connectionString);
 			this.myConnection.Open();
